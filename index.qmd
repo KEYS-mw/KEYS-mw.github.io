@@ -1,0 +1,34 @@
+---
+title: "Welcome"
+---
+
+
+
+::: {layout-ncol=2}
+
+::: {#column-text}
+Welcome to the KEYS Organization! 
+
+Our *overall goal* is to foster community success to alternative livelihoods through holistic support and empowerment. We are focusing on the sustainable restoration of natural resources, culture, improved agriculture, and inclusive economic opportunities to create a better world for everyone. We believe in teamwork as the key to unlocking the doors for maximizing results. This drives our passion to safeguard Mother Earth.
+
+Our *mission* is to unlock success through innovation and collaborative efforts with community partners to promote self-sufficiency and quality of life. 
+:::
+
+::: {#column-image}
+![Image of keys, drawn by a kid to make the youth feel involved. This concept of a real key marked the genesis of the KEYS Organization.](assets/img/Keys_drawing.png){fig-alt="Kid's drawing of two green keys that are arranged in parallel. Between the two keys is thw word 'keys' written in capitals."}
+:::
+
+:::
+
+Our *vision* is to to be the global organization in providing research, sustainable and innovative solutions to transform the lives of rural people.
+
+Our philosophy is driven by the dreams and desires of the elders and youth for a better community. KEYS (Knowledge Elders, Youth Share) propels our efforts to maximize information-sharing for conserving culture and the natural environment. The information shared will then be processed and passed on to the next and future generations within their communities and beyond.
+
+## Core topics
+
+We are realizing our aims along four core topics: 
+
+* Knowledge Share -- continually seeking and sharing knowledge to improve ourselves and the organization.
+* Capacity building -- focused on enhancement of abilities and skills of members through training to develop their potential and contribute to their community and organization.
+*	Entrepreneurship creation -- emphasizing on development of new businesses or initiatives and self-employment.
+*	Advocacy -- Actively supporting and promoting a well-being through speaking up, awareness raising, and working towards positive change (lobbying for policy changes, campaigns or building alliances to address social issues).

@@ -1,0 +1,51 @@
+project:
+  type: website
+    
+website:
+  site-url: https://archaeothommy.github.io/KEYS
+  repo-url: https://github.com/archaeothommy/KEYS
+  favicon: assets/img/favicons/favicon-32x32.png
+  title: "![Logo KEYS](assets/logo_text.png){height=100px}"
+  description: |
+    "Webpage of the KEYS Organization (KEYS = Knowledge Elders, Youth Share), 
+    which aims to foster community success to alternative livelihoods through 
+    holistic support and empowerment."
+  navbar:
+    background: white
+    foreground: red
+    left:
+      - href: index.qmd
+        text: "Welcome"
+      - about.qmd
+      - work.qmd
+      - network.qmd
+      - membership.qmd
+      - contact.qmd
+  page-footer: 
+    left: 
+      - text: 'Built with <a href="https://quarto.org/">Quarto</a>. <br> Last updated: {{< meta date >}}'
+    right: 
+      - text: "Legal information"
+        href: legal.qmd
+
+format:
+  html:
+    theme: 
+      - lumen
+      - custom.scss
+    css: styles.css
+    toc: true
+    toc-location: left
+    email-obfuscation: javascript
+    date: today
+    template-partials:
+      - title-block.html
+    
+
+execute:
+  freeze: auto
+  
+# KEYS colours: 
+#green: 00ff00 (logo)
+#red: ff0c00 (slogan)
+#black: 000000 (logo elements, name)
