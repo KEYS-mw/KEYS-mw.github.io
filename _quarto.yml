@@ -20,6 +20,7 @@ website:
       - work.qmd
       - network.qmd
       - membership.qmd
+      - team.qmd
       - contact.qmd
   page-footer: 
     left: 
@@ -40,7 +41,9 @@ format:
     date: today
     template-partials:
       - title-block.html
-    
+
+resources:
+  - CNAME
 
 execute:
   freeze: auto
