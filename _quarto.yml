@@ -17,7 +17,10 @@ website:
       - href: index.qmd
         text: "Welcome"
       - about.qmd
-      - work.qmd
+      - text: "Our work"
+        menu: 
+          - work.qmd
+          - work_AgainstChildMarriage.qmd
       - network.qmd
       - membership.qmd
       - team.qmd
@@ -37,6 +40,7 @@ format:
     css: styles.css
     toc: true
     toc-location: left
+    link-external-newwindow: true
     email-obfuscation: javascript
     date: today
     template-partials:
