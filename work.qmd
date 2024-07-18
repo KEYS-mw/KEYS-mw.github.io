@@ -1,5 +1,5 @@
 ---
-title: "Our Work"
+title: "Overview"
 ---
 
 KEYS Organization undertakes various initiatives, programs, and projects. The information below outlines the specific areas or causes which we focus on, such as cultural heritage, community development, environmental sustainability, entrepreneurship creation, advocacy for local needs, and knowledge systems relating to economic sustainability, agriculture, climate change, and health.
@@ -12,6 +12,11 @@ Let's break down each of these projects:
 
 ### Registering of KEYS Organization
 One of the foundational achievements of KEYS Organization was the successful registration of the organization. Registering as a community-based organization offers several advantages, including legal recognition, increased credibility, and eligibility for various government programs and funding opportunities. By completing the registration process, KEYS Organization positioned itself as an official and legitimate entity, ensuring its sustainability and ability to operate effectively.
+
+### Fight against child marriage
+Since 2019, KEYS Organization has been fighting child marriage and identified one of the team members as Child Protection Worker to support this effort. Since then, KEYS has foiled or ended more than 20 (potential) child marriages and conducted numerous advocacy and awareness meetings with leaders and community members, reaching almost 2000 persons. In addition, it supports community members caring for children by providing psychosocial counseling and essential items for everyday needs. Moreover, it selected and oriented 14 pre-school teachers and financed a three-day training workshop on this topic together with the Social Welfare Services. 
+
+Recently. the [Firelight Foundation](https://www.firelightfoundation.org/) joined KEYS in their fight against child marriage by providing financial support and capacity building through the "ending child marriage initiative (ECM)". Learn more about their engagement on our [dedicated page](work_AgainstChildMarriage.qmd). 
 
 ### Growing of Legumes (Soya and Peanuts)
 KEYS Organization successfully implemented a project focused on the cultivation of legumes as part of focusing on its pillars, entrepreneurship creation. Legumes are an important crop due to their high protein content and ability to fix nitrogen in the soil, benefiting both farmers and the environment. This project aimed to promote sustainable agriculture practices and improve food and income security within the community. Through training and support, KEYS Organization helped its members to learn effective legume farming techniques, enabling them to increase their crop yields and enhance their livelihoods.
@@ -32,7 +37,6 @@ KEYS Organization successfully implemented a project focused on the cultivation 
 Another significant milestone of KEYS Organization was the establishment of the [Ndatukuka Investment Fund](membership.qmd#about-ndatukuka-investment-fund). This initiative aimed to empower members of the organization by providing them with access to financial resources and investment opportunities. The fund could be utilized for various purposes, such as starting or expanding businesses, investing in income-generating activities, or supporting community development projects. By facilitating access to capital and financial literacy, KEYS Organization helped its members unlock economic opportunities and improve their financial well-being.
 
 ### Fundraising and financing capacity building of KEYS Organization by the Malawi government
-
 
 ::: {layout-ncol=2}
 
