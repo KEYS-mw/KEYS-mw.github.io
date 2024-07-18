@@ -27,7 +27,7 @@ website:
       - contact.qmd
   page-footer: 
     left: 
-      - text: 'Built with <a href="https://quarto.org/">Quarto</a>. <br> Last updated: {{< meta date >}}'
+      - text: "Built with <a href='https://quarto.org/'>Quarto</a>. <br> Last updated: {{< meta date >}}"
     right: 
       - text: "Legal information"
         href: legal.qmd
