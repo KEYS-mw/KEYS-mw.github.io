@@ -32,3 +32,6 @@ We are realizing our aims along four core topics:
 * Capacity building -- focused on enhancement of abilities and skills of members through training to develop their potential and contribute to their community and organization.
 *	Entrepreneurship creation -- emphasizing on development of new businesses or initiatives and self-employment.
 *	Advocacy -- Actively supporting and promoting a well-being through speaking up, awareness raising, and working towards positive change (lobbying for policy changes, campaigns or building alliances to address social issues).
+
+## News
+* Publication of joint paper *Living Heritage, Resilience and Ethically Informed Infrastructures in Malawi* by Frank Puluputu Mwale and Martha Lerski (Lehman College of the City University of New York, USA). [Read more](http://localhost:4246/work.html#building-infrastructures-to-support-living-heritage-traditions)

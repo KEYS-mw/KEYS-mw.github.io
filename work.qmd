@@ -1,5 +1,6 @@
 ---
 title: "Overview"
+reference-location: margin
 ---
 
 KEYS Organization undertakes various initiatives, programs, and projects. The information below outlines the specific areas or causes which we focus on, such as cultural heritage, community development, environmental sustainability, entrepreneurship creation, advocacy for local needs, and knowledge systems relating to economic sustainability, agriculture, climate change, and health.
@@ -51,12 +52,13 @@ KEYS Organization prioritized the development and capacity building of its membe
 
 :::
 
-### Presenting a research paper at the 16^th^ PANAF Congress in Zanzibar (Tanzania)
+### Building infrastructures to support living heritage traditions 
+KEYS Organzation collaborates with international partners to build infrastructures that support living heritage traditions and environmental resilience through them. 
 
 ::: {layout="[ 38 , 62 ]"}
 
 ::: {#column-text}
-KEYS Organization showcased its work and achievements by co-presenting a research paper at the 16^th^ PANAF Congress in Zanzibar (Tanzania). This opportunity allowed the organization to share its experiences, best practices, and lessons learned with a wider audience. By presenting at a conference, KEYS Organization not only contributed to the body of knowledge in its field but also gained recognition and exposure, potentially opening doors for collaborations, partnerships, and future opportunities. 
+Its work and achievements were showcased in a research paper at the 16^th^ PANAF Congress in Zanzibar (Tanzania). This opportunity allowed the organization to share its experiences, best practices, and lessons learned with a wider audience. By presenting at a conference, KEYS Organization not only contributed to the body of knowledge in its field but also gained recognition and exposure, potentially opening doors for collaborations, partnerships, and future opportunities. 
 
 :::
 
@@ -66,6 +68,8 @@ KEYS Organization showcased its work and achievements by co-presenting a researc
 
 :::
 
-The KEYS Organization gratefully acknowledges the Pan African Archaeological Congress for supporting Puluputu Mwale's registration for his participation in the session "Imagining Futures: Beyond Archives and Archiving" at the 16^th^ Pan-African Archaeological Congress, “Learning from the African Pasts to Manage Local and Global Disasters."
+The KEYS Organization gratefully acknowledges the Pan African Archaeological Congress for supporting KEYS Executive Director Puluputu Mwale's registration for his participation in the session "Imagining Futures: Beyond Archives and Archiving" at the 16^th^ Pan-African Archaeological Congress, “Learning from the African Pasts to Manage Local and Global Disasters."
+
+The presented resulted in the peer-reviewed article *[Living Heritage, Resilience and Ethically Informed Infrastructures in Malawi](https://doi.org/10.1163/25462237-12340001)* in the journal Studies in the African Past^[Read the author accepted version without access restrictions [HERE](https://academicworks.cuny.edu/le_pubs/459/).], co-authored with Martha Lerski of Lehman College of the City University of New York, USA. Together with Thomas Rose and Martha Lerski, Mwale continues to develop protocols for documenting, conserving, and sharing sustainability-linked intangible cultural heritage. The overall idea of this collaboration was also outlined in the poster *[Documenting Traditional Ecological Knowledge for Mitigating Climate and Environmental Change: Presenting an Emerging Initiative](https://doi.org/10.5281/zenodo.14175985)*, presented at the 30^th^ Annual Meeting of the European Association of Archeologists in 2024.
 
 
