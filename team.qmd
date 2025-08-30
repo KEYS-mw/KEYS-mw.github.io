@@ -1,5 +1,6 @@
 ---
 title: "Team"
+lightbox: true
 ---
 
 The following leaders were elected by the elective assembly of the KEYS Organization on 22 November 2023. 

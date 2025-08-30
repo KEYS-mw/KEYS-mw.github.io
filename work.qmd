@@ -1,6 +1,7 @@
 ---
 title: "Overview"
 reference-location: margin
+lightbox: true
 ---
 
 KEYS Organization undertakes various initiatives, programs, and projects. The information below outlines the specific areas or causes which we focus on, such as cultural heritage, community development, environmental sustainability, entrepreneurship creation, advocacy for local needs, and knowledge systems relating to economic sustainability, agriculture, climate change, and health.
