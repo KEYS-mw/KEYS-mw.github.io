@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.33">
+<meta name="generator" content="quarto-1.7.34">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2025-08-25">
+<meta name="dcterms.date" content="2025-08-30">
 
 <title>Welcome – </title>
 <style>
@@ -38,10 +38,13 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-ea385d0e468b0dd5ea5bf0780b1290d9.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-c8ad9e5dbd60b7b70b38521ab19b7da4.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-a77b4e9af64ec7b1b9bc7fde118c775e.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-40b0febf05f6cb4b795bb87e676563ad.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -110,7 +113,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
         <li>
     <a class="dropdown-item" href="./work_AgainstChildMarriage.html">
- <span class="dropdown-text">Fight against child marriage</span></a>
+ <span class="dropdown-text">Ending child marriage (ECM)</span></a>
   </li>  
     </ul>
   </li>
@@ -172,7 +175,7 @@ ul.task-list li input[type="checkbox"] {
 <div id="column-image" class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="assets/img/Keys_drawing.png" class="img-fluid figure-img" alt="Kid's drawing of two green keys that are arranged in parallel. Between the two keys is thw word 'keys' written in capitals."></p>
+<p><a href="assets/img/Keys_drawing.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Image of keys, drawn by a kid to make the youth feel involved. This concept of a real key marked the genesis of the KEYS Organization."><img src="assets/img/Keys_drawing.png" class="img-fluid figure-img" alt="Kid's drawing of two green keys that are arranged in parallel. Between the two keys is thw word 'keys' written in capitals."></a></p>
 <figcaption>Image of keys, drawn by a kid to make the youth feel involved. This concept of a real key marked the genesis of the KEYS Organization.</figcaption>
 </figure>
 </div>
@@ -611,7 +614,7 @@ ul.task-list li input[type="checkbox"] {
     <div class="nav-footer-left">
       <ul class="footer-items list-unstyled">
     <li class="nav-item">
- Built with <a href="https://quarto.org/">Quarto</a>. <br> Last updated: August 25, 2025
+ Built with <a href="https://quarto.org/">Quarto</a>. <br> Last updated: August 30, 2025
   </li>  
 </ul>
     </div>   
@@ -629,6 +632,38 @@ ul.task-list li input[type="checkbox"] {
     </div>
   </div>
 </footer>
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 
