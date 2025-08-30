@@ -1,9 +1,11 @@
 ---
-title: "Fight against child marriage"
+title: "Ending child marriage (ECM)"
 lightbox: true
 ---
 
-KEYS Organization engages against child marriage since many years and identified one of its members as Child Protection Worker. Currently, it is building an office to increase the visibility and accessibility of information on this topic. It raises awareness on this topic through the organization of advocacy and awareness meetings and workshops, which have already reached almost 2000 people. Moreover, it foiled potential and ended existing child marriages in over 20 cases. Elderly individuals caring for children are offered psychosocial counselling and essential items for everyday needs by the KEYS Organization and 14 persons were selected and trained as pre-school teachers. 
+## About the program
+
+KEYS Organization engages against child marriage since many years and identified one of its members as Child Protection Worker. Currently, it is building an office to increase the visibility and accessibility of information on this topic. It raises awareness on this topic through the organization of advocacy and awareness meetings and workshops, which have already reached almost 2000 people. Moreover, it foiled potential and ended existing child marriages in over 20 cases. Elderly individuals caring for children are offered psycho-social counselling and essential items for everyday needs by the KEYS Organization and 14 persons were selected and trained as pre-school teachers. 
 
 Learn more about the activities of KEYS Organization against child marriage in [this document](assets/KEYS-Presentation-Firelight Foundation Orientation-27May2024.pdf): 
 ![](assets/KEYS-Presentation-Firelight Foundation Orientation-27May2024.pdf){width=100% height=450}
@@ -19,5 +21,61 @@ As a first or learning phase, KEYS Organization identifies the root causes for c
 ::: {#column-image}
 ![Representatives of KEYS Organization attending a capacity building workshop of the Firelight Foundation.](assets/img/KEYS_Firefly_May2024.jpg){fig-alt="The Executive Director of the KEYS Organization together with four other members are standing on a parking lot in front of a white wooden building with green roof tiles."}
 :::
+
+:::
+
+## Addressing the root causes of child marriage is key to prevention
+
+* **Community Awareness & Norms Change**: Conducted 4 awareness campaigns reaching 630 people with messages on ending child marriage.
+* **Trained 75 families** in Village Savings and Loan (VSL) methodologies, empowering them to save and invest in their children’s basic needs. 
+* **Linked three VSL members** to become Airtel Money agents, creating sustainable income opportunities. 
+*	**Alternative income stream established**: KEYS rented four (4) hectares of land to grow legumes and maize for sale in 2024. Proceeds support future operations of our Ending Child Marriage (ECM) program.
+* **Engaged and trained 2 Chiefs’ Councils (26 members)**: The district Social Welfare Office, Community Development office, and Police facilitated the training to ensure that child protection systems were owned and sustained by the community.
+
+::: {layout-nrow=2}
+
+![Group photo with chiefs and members of KEYS and community after awareness campaign. ](assets/img/ECM_update1-1.jpg){group="ECM-update"}
+
+![Group photo with chiefs and members of KEYS and community after awareness campaign. ](assets/img/ECM_update1-4.jpg){group="ECM-update"}
+
+![VSL group members after training together with representatives of the Social Welfare Office, Community Development Office and KEYS members. ](assets/img/ECM_update1-2.jpg){group="ECM-update"}
+
+![VSL group members after training together with representatives of the Social Welfare Office, Community Development Office and KEYS members. ](assets/img/ECM_update1-3.jpg){group="ECM-update"}
+
+:::
+
+## Direct Intervention & Support for Survivors
+Our program delivers tangible, life-changing results for vulnerable children.
+
+
+::: {layout="[ 67 , 33 ]"}
+
+::: {#column-text}
+
+*	**23 child marriages nullified**, legally freeing children from harmful unions (10 through member financial support, 13 through Firelight Foundation grant funding). 
+*	**Supported two cases and concluded one (1) court case** where perpetrator of child marriage was sentenced 10 years with hard labour.
+*	**18 potential marriages disrupted**, preventing children from entering unions before reaching legal age. 
+*	**Direct survivor support**: One survivor received startup capital for a small business. Another received essential educational materials. A survivor (mother of twins) was supported through legal processes to secure child support from the father. Highlighting **impact, prevention, and sustainability of ECM efforts**
+
+:::
+
+::: {#column-image}
+
+![Interface meeting with Chiefs and representatives of Education, Health and members of KEYS. ](assets/img/ECM_update2-2.jpeg){group="ECM-update"}
+
+:::
+
+:::
+
+::: {layout-nrow=2}
+
+![The 16 year old mother of twins surviving child marriage.](assets/img/ECM_update2-1.jpeg){group="ECM-update"}
+
+![Interface meeting betweens KEYS members, chiefs and government officials.](assets/img/ECM_update2-5.jpg){group="ECM-update"}
+
+![Banner of KEYS Organization to raise awareness and advocate for stronger bylaws to protect every child and promote justice for survivors. ](assets/img/ECM_update2-3.jpg){group="ECM-update"}
+
+![Project orientation to Senior chief, advisors and representatives of the court and police. ](assets/img/ECM_update2-4.jpg){group="ECM-update"}
+
 
 :::
