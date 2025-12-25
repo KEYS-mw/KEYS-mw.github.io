@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.34">
+<meta name="generator" content="quarto-1.8.26">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2025-08-31">
+<meta name="dcterms.date" content="2025-12-25">
 
 <title>Legal Notice – </title>
 <style>
@@ -34,14 +34,15 @@ ul.task-list li input[type="checkbox"] {
 <link href="./assets/img/favicons/favicon-32x32.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-c8ad9e5dbd60b7b70b38521ab19b7da4.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-40b0febf05f6cb4b795bb87e676563ad.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-b64f36e349a2108f430091a341b8ced1.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -145,7 +146,7 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#provider-according-to-5-tmg" id="toc-provider-according-to-5-tmg" class="nav-link active" data-scroll-target="#provider-according-to-5-tmg">Provider according to § 5 TMG</a></li>
+  <li><a href="#provider" id="toc-provider" class="nav-link active" data-scroll-target="#provider">Provider</a></li>
   <li><a href="#privacy" id="toc-privacy" class="nav-link" data-scroll-target="#privacy">Privacy</a></li>
   </ul>
 </nav>
@@ -163,13 +164,14 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p>This webpage is operated by Thomas Rose on behalf of the KEYS Organization, Malawi.</p>
-<section id="provider-according-to-5-tmg" class="level2">
-<h2 class="anchored" data-anchor-id="provider-according-to-5-tmg">Provider according to § 5 TMG</h2>
+<section id="provider" class="level2">
+<h2 class="anchored" data-anchor-id="provider">Provider</h2>
 <p>Thomas Rose<br>
-Fahrenheitstraße 52<br>
-44879 Bochum<br>
-Germany</p>
-<p>Phone +49 1522 3176524<br>
+6 Whittier Pl. 17P<br>
+Boston<br>
+MA 02114<br>
+United States of America</p>
+<p>Phone +1 (617) 412-6675<br>
 E-Mail: keys.organization.mw [at] gmail.com</p>
 </section>
 <section id="privacy" class="level2">
@@ -231,13 +233,14 @@ E-Mail: keys.organization.mw [at] gmail.com</p>
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
@@ -590,7 +593,7 @@ E-Mail: keys.organization.mw [at] gmail.com</p>
     <div class="nav-footer-left">
       <ul class="footer-items list-unstyled">
     <li class="nav-item">
- Built with <a href="https://quarto.org/">Quarto</a>. <br> Last updated: August 31, 2025
+ Built with <a href="https://quarto.org/">Quarto</a>. <br> Last updated: December 25, 2025
   </li>  
 </ul>
     </div>   
